@@ -3,4 +3,4 @@ Nicolas
 Jean
 Doudou
 
-I am creating this new branch to test the branch merge feature.
+Let's create a conflict shall we?
