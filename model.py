@@ -2,3 +2,6 @@
 
 ##class model
 
+class model:
+	pass
+
