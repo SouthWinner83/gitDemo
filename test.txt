@@ -6,3 +6,5 @@ Doudou
 I am creating this new branch to test the branch merge feature.
 
 Afraid of a conflit, are you?
+
+I want modify this file again!
