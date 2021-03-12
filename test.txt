@@ -3,4 +3,6 @@ Nicolas
 Jean
 Doudou
 
-Let's create a conflict shall we?
+I am creating this new branch to test the branch merge feature.
+
+Afraid of a conflit, are you?
