@@ -2,3 +2,5 @@ Hello
 Nicolas
 Jean
 Doudou
+
+I am creating this new branch to test the branch merge feature.
